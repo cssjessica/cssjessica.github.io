@@ -1,12 +1,12 @@
 ---
 layout: about
-title: About me
+title: about
 permalink: /
 subtitle:
 
 profile:
   align: right
-  image: headshot.png
+  image: headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 
